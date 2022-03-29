@@ -1,0 +1,41 @@
+
+/*CSS*/
+
+.caixa {
+	box-sizing: 70px 550px;
+	margin-top: 0px;
+	margin-left: 0px;
+	border: 0px;
+	padding: 1px;
+	position: relative;
+	background: rgb(102, 58, 87);
+}
+
+.titulo_principal {
+	font-family: arial;
+	font-size: 26px;
+	text-align: center;
+	color: white;
+	text-indent: none;
+}
+
+.titulo_secundario {
+	font-family: arial;
+	font-size: 18px;
+	text-align: left;
+	color: orangered;
+	text-indent: none;
+}
+
+.paragrafos {
+	font-family: arial;
+	font-size: 14px;
+	text-align: justify;
+	color: black;
+	text-indent: 80px;
+
+}
+
+.font {
+	font-family: arial;
+}
